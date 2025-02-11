@@ -1,0 +1,18 @@
+.player-container{
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.back-arrow{
+    position:absolute;
+    top:20px;
+    left:20px;
+    cursor: pointer;
+}
+.player-video{
+    width:90%;
+    height:90%;
+    border:0px;
+}

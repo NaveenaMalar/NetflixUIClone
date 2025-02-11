@@ -1,0 +1,98 @@
+.container{
+    margin:0;
+    padding:0;
+    object-fit: contain;
+    position:relative;
+}
+.bgimage{
+    width:100%;
+    position:absolute;
+}
+.transparent{
+    width:100%;
+    height:790px;
+    position:absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.header{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height:5rem;
+    position: relative;
+    width:100%;
+    padding-top:15px;
+}
+.netfliximg{
+    width:250px;
+    padding-left:150px;
+}
+.signinouter{    
+    padding-right:200px;
+}
+.signin{
+    display: flex;
+    background-color: Red;
+    color:white;
+    width:100px;
+    height:40px;
+    border-radius: 5px;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    padding-bottom: 5px;    
+    text-decoration: none;
+}
+.home{
+    max-width:800px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    position:relative;
+    color:white;
+    padding-left:300px;
+    padding-top:100px;
+    flex-wrap: wrap;
+    gap:15px;
+}
+.unlimited{
+    font-weight: bold;
+    font-size:4rem;
+    text-align: center;
+}
+.start{
+    font-weight: bold;
+    font-size:1.5rem;
+}
+.membership{
+    font-weight: 600;
+    font-size:1.25rem;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.mail{
+    display:flex;
+    flex-direction: row;
+    gap:5px;
+}
+.email{
+    height:4rem;
+    width:25rem;
+    color:white;
+    border:2px solid white;
+    border-radius: 5px;
+    background-color: Black;
+    font-size: large;
+    font-weight: 700;
+}
+.getstarted{
+    background-color: red;
+    padding:10px 5px 5px 5px;
+    width:250px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+    cursor: pointer;
+}
