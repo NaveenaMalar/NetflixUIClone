@@ -4,15 +4,18 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
 .back-arrow{
     position:absolute;
     top:20px;
     left:20px;
     cursor: pointer;
+    color:white;
 }
 .player-video{
-    width:90%;
-    height:90%;
+    width:95%;
+    height:95%;
     border:0px;
+    border-radius: 0.5rem;
 }
