@@ -26,7 +26,6 @@ const Movies = () => {
 
   const handleSearch =(event) =>{
     setSearchValue(event.target.value);
-    console.log(searchValue);
   }
   
   const filteredMovies = searchValue? movieSearches.filter(movie => movie.movieName.toLowerCase().includes(searchValue.toLowerCase())):movieSearches;
