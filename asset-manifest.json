@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NaveenaMalar/NetflixUIClone/static/css/main.022dd2bd.css",
+    "main.js": "/NaveenaMalar/NetflixUIClone/static/js/main.a0d16096.js",
+    "static/media/Netflix-BG.jpg": "/NaveenaMalar/NetflixUIClone/static/media/Netflix-BG.fe9d0a22340320d5a042.jpg",
+    "static/media/maharaja.jpg": "/NaveenaMalar/NetflixUIClone/static/media/maharaja.f5e0abb9264fa2ad41b4.jpg",
+    "static/media/Netflix_Logo_PMS.png": "/NaveenaMalar/NetflixUIClone/static/media/Netflix_Logo_PMS.303904f75553a51bbf31.png",
+    "static/media/card4.jpg": "/NaveenaMalar/NetflixUIClone/static/media/card4.7d9c5dd43bbf4d1aa240.jpg",
+    "static/media/card3.jpg": "/NaveenaMalar/NetflixUIClone/static/media/card3.268f3b6872c3530b6c62.jpg",
+    "static/media/card2.jpg": "/NaveenaMalar/NetflixUIClone/static/media/card2.37e724f31dc0a00744a6.jpg",
+    "static/media/card5.jpg": "/NaveenaMalar/NetflixUIClone/static/media/card5.263f1e647be7a3c54d44.jpg",
+    "index.html": "/NaveenaMalar/NetflixUIClone/index.html",
+    "main.022dd2bd.css.map": "/NaveenaMalar/NetflixUIClone/static/css/main.022dd2bd.css.map",
+    "main.a0d16096.js.map": "/NaveenaMalar/NetflixUIClone/static/js/main.a0d16096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022dd2bd.css",
+    "static/js/main.a0d16096.js"
+  ]
+}
