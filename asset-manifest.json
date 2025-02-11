@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NetflixUIClone/static/css/main.022dd2bd.css",
+    "main.css": "/NetflixUIClone/static/css/main.057a8f6b.css",
     "main.js": "/NetflixUIClone/static/js/main.fe0468c5.js",
     "static/media/Netflix-BG.jpg": "/NetflixUIClone/static/media/Netflix-BG.fe9d0a22340320d5a042.jpg",
     "static/media/maharaja.jpg": "/NetflixUIClone/static/media/maharaja.f5e0abb9264fa2ad41b4.jpg",
@@ -10,11 +10,11 @@
     "static/media/card2.jpg": "/NetflixUIClone/static/media/card2.37e724f31dc0a00744a6.jpg",
     "static/media/card5.jpg": "/NetflixUIClone/static/media/card5.263f1e647be7a3c54d44.jpg",
     "index.html": "/NetflixUIClone/index.html",
-    "main.022dd2bd.css.map": "/NetflixUIClone/static/css/main.022dd2bd.css.map",
+    "main.057a8f6b.css.map": "/NetflixUIClone/static/css/main.057a8f6b.css.map",
     "main.fe0468c5.js.map": "/NetflixUIClone/static/js/main.fe0468c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.022dd2bd.css",
+    "static/css/main.057a8f6b.css",
     "static/js/main.fe0468c5.js"
   ]
 }
